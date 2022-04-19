@@ -95,4 +95,4 @@ After starting the code
 ```
 
 ## Improvements
-For improvements we can increase the speed as well as its accuracy. Furthermore, we can also add the step of reverse after releasing the token so that the robot will always be in motion.
+For improvements we can increase the speed as well as its accuracy.
