@@ -93,9 +93,6 @@ After starting the code
     else
       turn towards free path to avoid obstacles
 ```
-## Flowchart
-Below is the flow chart
-![FlowChart-01](https://user-images.githubusercontent.com/96690967/154515714-5c5b7e20-17d5-4af1-a1f4-1d1c35a31b02.jpeg)
 
 ## Improvements
 For improvements we can increase the speed as well as its accuracy. Furthermore, we can also add the step of reverse after releasing the token so that the robot will always be in motion.
